@@ -80,7 +80,8 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="25" /></a>  
 <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" /></a>
-  <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/neo4j-original.svg" alt="neo4j" height="25" /></a>  
+<a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/neo4j-original.svg" alt="neo4j" height="25" /></a>
+<a href="https://www.perl.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/perl-original.svg" alt="Perl" height="25" /></a>
 </div>  
 
 <br/>  
