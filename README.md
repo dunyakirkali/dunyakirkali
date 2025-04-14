@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/dunyakirkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dunyakirkali" height="30" width="40" /></a>
 <a href="https://medium.com/@haagwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haagwee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dunyakirkali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dunyakirkali" height="30" width="40" /></a>
-<a href="/https://blog.incrementalforgetting.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.incrementalforgetting.tech/" height="30" width="40" /></a>
+<a href="https://blog.incrementalforgetting.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.incrementalforgetting.tech/" height="30" width="40" /></a>
 </p>
 
 <br/>  
