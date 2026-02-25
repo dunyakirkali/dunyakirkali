@@ -101,12 +101,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dunyakirkali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunyakirkali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunyakirkali&theme=tokyonight" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunyakirkali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dunyakirkali&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dunyakirkali&theme=tokyonight" alt="Top Languages by Repo" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dunyakirkali&theme=tokyonight" alt="Top Languages by Commit" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dunyakirkali&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
 </p>
 
 ---
