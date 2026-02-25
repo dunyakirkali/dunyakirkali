@@ -113,6 +113,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your system is fine. Your users aren&#39;t](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
+- [DuckLake for busy engineering managers](https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers)
+- [The AI lie](https://blog.incrementalforgetting.tech/p/the-ai-lie)
+- [Exposure over theory](https://blog.incrementalforgetting.tech/p/exposure-over-theory)
+- [Know your worth](https://blog.incrementalforgetting.tech/p/know-your-worth)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.incrementalforgetting.tech/)
