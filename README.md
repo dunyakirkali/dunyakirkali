@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl"/>
+  <img src="https://img.shields.io/badge/Zig-EE7F2B?style=flat-square&logo=zig&logoColor=white" alt="Zig"/>
   <a href="https://mlochbaum.github.io/BQN/"><img src="https://img.shields.io/badge/BQN-2D2D2D?style=flat-square" alt="BQN"/></a>
 </p>
 
