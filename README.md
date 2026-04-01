@@ -119,11 +119,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Manager&#39;s Compass](https://blog.incrementalforgetting.tech/p/engineering-managers-compass)
 - [Interviewing tactics for a post-LLM world](https://blog.incrementalforgetting.tech/p/interviewing-tactics-for-a-post-llm)
 - [Your system is fine. Your users aren&#39;t](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
 - [DuckLake for busy engineering managers](https://blog.incrementalforgetting.tech/p/ducklake-for-busy-engineering-managers)
 - [The AI lie](https://blog.incrementalforgetting.tech/p/the-ai-lie)
-- [Exposure over theory](https://blog.incrementalforgetting.tech/p/exposure-over-theory)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.incrementalforgetting.tech/)
