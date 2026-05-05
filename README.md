@@ -119,11 +119,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The &quot;Tech Pendulum&quot;](https://blog.incrementalforgetting.tech/p/the-tech-pendulum)
 - [One step at a time](https://blog.incrementalforgetting.tech/p/one-step-at-a-time)
 - [Buy vs. Build, Train vs. Use](https://blog.incrementalforgetting.tech/p/buy-vs-build-train-vs-use)
 - [The Bot Tax](https://blog.incrementalforgetting.tech/p/the-bot-tax)
 - [Not all interruptions are created equal](https://blog.incrementalforgetting.tech/p/not-all-interruptions-are-created)
-- [Human judgment, AI assistance](https://blog.incrementalforgetting.tech/p/human-judgment-ai-assistance)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.incrementalforgetting.tech/)
