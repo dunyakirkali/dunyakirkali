@@ -119,11 +119,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When everyone ships code, who owns production?](https://blog.incrementalforgetting.tech/p/when-everyone-ships-code-who-owns)
 - [Engineering managers should read team diffs, not just dashboards](https://blog.incrementalforgetting.tech/p/engineering-managers-should-read)
 - [Why engineering teams swing between process extremes](https://blog.incrementalforgetting.tech/p/the-tech-pendulum)
 - [How to keep writing after the novelty wears off](https://blog.incrementalforgetting.tech/p/one-step-at-a-time)
 - [Buy vs. Build, Train vs. Use](https://blog.incrementalforgetting.tech/p/buy-vs-build-train-vs-use)
-- [The Bot Tax](https://blog.incrementalforgetting.tech/p/the-bot-tax)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.incrementalforgetting.tech/)
