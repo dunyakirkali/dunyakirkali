@@ -119,11 +119,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The worst habit of our industry](https://blog.incrementalforgetting.tech/p/the-worst-habit-of-our-industry)
 - [Runbooks are not checklists](https://blog.incrementalforgetting.tech/p/runbooks-are-not-checklists)
 - [How serial heroics across teams can quietly damage the organization](https://blog.incrementalforgetting.tech/p/the-problematic-traveling-salesman)
 - [When everyone ships code, who owns production?](https://blog.incrementalforgetting.tech/p/when-everyone-ships-code-who-owns)
 - [Engineering managers should read team diffs, not just dashboards](https://blog.incrementalforgetting.tech/p/engineering-managers-should-read)
-- [Why engineering teams swing between process extremes](https://blog.incrementalforgetting.tech/p/the-tech-pendulum)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://blog.incrementalforgetting.tech/)
