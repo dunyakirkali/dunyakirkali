@@ -49,6 +49,7 @@
 #### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Rails"/>
+  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" alt="Phoenix"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
